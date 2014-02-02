@@ -1,0 +1,11 @@
+{
+ "name": "punycode",
+ "version": "3.24.10",
+ "main": "punycode.min.js",
+ "description": "'punycode' nodejs core module browserify-ied with `--standalone punycode`. Should support all module systems (commonjs, AMD & `window.punycode`) - check browserify docs.",
+ "keywords": [
+  "nodejs",
+  "browserify",
+  "punycode"
+ ]
+}
